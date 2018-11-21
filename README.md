@@ -1,6 +1,12 @@
 # wpl-puyo-elo
 Attempt at a static-site ELO ranking system for western Puyo players.
 
+# matchlogs
+Match log files are stored in ranking/data/matchlogs, named by season.
+
+The match logs are saved as UTF-8 tab delimited text files. If you edit them, make sure to resave using UTF-8 encoding.
+
+
 ## playerlist.json
 
 * `name`:

@@ -2497,6 +2497,15 @@ csso@^3.5.0:
   dependencies:
     css-tree "1.0.0-alpha.29"
 
+csvtojson@^2.0.8:
+  version "2.0.8"
+  resolved "https://registry.yarnpkg.com/csvtojson/-/csvtojson-2.0.8.tgz#d889f19576b2b33ead235490d2e5c9791481e8d3"
+  integrity sha512-DC6YFtsJiA7t/Yz+KjzT6GXuKtU/5gRbbl7HJqvDVVir+dxdw2/1EgwfgJdnsvUT7lOnON5DvGftKuYWX1nMOQ==
+  dependencies:
+    bluebird "^3.5.1"
+    lodash "^4.17.3"
+    strip-bom "^2.0.0"
+
 currently-unhandled@^0.4.1:
   version "0.4.1"
   resolved "https://registry.yarnpkg.com/currently-unhandled/-/currently-unhandled-0.4.1.tgz#988df33feab191ef799a61369dd76c17adf957ea"
@@ -3760,6 +3769,11 @@ getpass@^0.1.1:
   integrity sha1-Xv+OPmhNVprkyysSgmBOi6YhSfo=
   dependencies:
     assert-plus "^1.0.0"
+
+glicko2@^0.8.4:
+  version "0.8.4"
+  resolved "https://registry.yarnpkg.com/glicko2/-/glicko2-0.8.4.tgz#cc126e4ebcd577e2a8ff1d6d819f5d08ee985aaf"
+  integrity sha1-zBJuTrzVd+Ko/x1tgZ9dCO6YWq8=
 
 glob-parent@^3.1.0:
   version "3.1.0"

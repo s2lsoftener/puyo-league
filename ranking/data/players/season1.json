@@ -2,8 +2,14 @@
   {
     "name": "unkoさん",
     "ranking": 1,
-    "elo": [
-      { "rate": 2000, "date": "2018-11-21T00:00:00.000Z", "matchID": null}
+    "ratings": [
+      {
+        "date": "2018-11-21T00:00:00.000Z",
+        "matches": [
+          {}
+        ],
+        "rating": 2100
+      }
     ],
     "location": "New York, Japan",
     "avatar": "../assets/data/avatars/default.png",
@@ -13,8 +19,14 @@
   {
     "name": "Echizen Ryoma",
     "ranking": 2,
-    "elo": [
-      { "rate": 2000, "date": "2018-11-21T00:00:00.000Z", "matchID": null}
+    "ratings": [
+      {
+        "date": "2018-11-21T00:00:00.000Z",
+        "matches": [
+          {}
+        ],
+        "rating": 2080
+      }
     ],
     "location": "Tennis, Japan",
     "avatar": "../assets/data/avatars/default.png",
@@ -24,8 +36,14 @@
   {
     "name": "Kuroko",
     "ranking": 3,
-    "elo": [
-      { "rate": 2000, "date": "2018-11-21T00:00:00.000Z", "matchID": null}
+    "ratings": [
+      {
+        "date": "2018-11-21T00:00:00.000Z",
+        "matches": [
+          {}
+        ],
+        "rating": 2040
+      }
     ],
     "location": "Basketball, Japan",
     "avatar": "../assets/data/avatars/default.png",
@@ -35,8 +53,14 @@
   {
     "name": "Ren",
     "ranking": 4,
-    "elo": [
-      { "rate": 2000, "date": "2018-11-21T00:00:00.000Z", "matchID": null}
+    "ratings": [
+      {
+        "date": "2018-11-21T00:00:00.000Z",
+        "matches": [
+          {}
+        ],
+        "rating": 1950
+      }
     ],
     "location": "Persona, Japan",
     "avatar": "../assets/data/avatars/default.png",
