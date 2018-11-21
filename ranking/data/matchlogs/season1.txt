@@ -1,4 +1,4 @@
-﻿matchid	player1	player2	p1score	p2score	date
-1	unkoさん	Echizen Ryoma	20	10	11/22/2018
-2	unkoさん	Kuroko	20	14	11/22/2018
-3	Ren	unkoさん	20	19	11/22/2018
+﻿season	tournament	matchid	player1	player2	p1score	p2score	date	video	bracket
+1	nov18	1	unkoさん	Echizen Ryoma	20	10	11/22/2018	https://www.youtube.com/watch?v=QeZne1wVyl0	https://www.challonge.com
+1	nov18	2	unkoさん	Kuroko	20	14	11/22/2018		
+1	nov18	3	Ren	unkoさん	20	19	11/22/2018		
