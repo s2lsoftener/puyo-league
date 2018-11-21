@@ -2,10 +2,45 @@
   {
     "name": "unkoさん",
     "ranking": 1,
-    "elo": 2000,
-    "elo_start": 2000,
-    "start_date": "2018-11-21T00:00:00.000Z",
-    "location": "Tokyo, Japan",
-    "avatar": ""
+    "elo": [
+      { "rate": 2000, "date": "2018-11-21T00:00:00.000Z", "matchID": null}
+    ],
+    "location": "New York, Japan",
+    "avatar": "../assets/data/avatars/default.png",
+    "matches": [],
+    "description": "Test player unkoさん (UTF8 test)"
+  },
+  {
+    "name": "Echizen Ryoma",
+    "ranking": 2,
+    "elo": [
+      { "rate": 2000, "date": "2018-11-21T00:00:00.000Z", "matchID": null}
+    ],
+    "location": "Tennis, Japan",
+    "avatar": "../assets/data/avatars/default.png",
+    "matches": [],
+    "description": "Test player Echizen Ryoma (space name test)"
+  },
+  {
+    "name": "Kuroko",
+    "ranking": 3,
+    "elo": [
+      { "rate": 2000, "date": "2018-11-21T00:00:00.000Z", "matchID": null}
+    ],
+    "location": "Basketball, Japan",
+    "avatar": "../assets/data/avatars/default.png",
+    "matches": [],
+    "description": "Test player Kuroko"
+  },
+  {
+    "name": "Ren",
+    "ranking": 4,
+    "elo": [
+      { "rate": 2000, "date": "2018-11-21T00:00:00.000Z", "matchID": null}
+    ],
+    "location": "Persona, Japan",
+    "avatar": "../assets/data/avatars/default.png",
+    "matches": [],
+    "description": "Test player Ren"
   }
 ]
