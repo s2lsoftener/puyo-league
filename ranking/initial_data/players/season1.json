@@ -5,10 +5,10 @@
     "ratings": [
       {
         "date": "2018-11-21T00:00:00.000Z",
-        "matches": [
-          {}
-        ],
-        "rating": 2100
+        "matches": [],
+        "rating": 2100,
+        "rd": 100,
+        "vol": 0.06
       }
     ],
     "location": "New York, Japan",
@@ -22,10 +22,10 @@
     "ratings": [
       {
         "date": "2018-11-21T00:00:00.000Z",
-        "matches": [
-          {}
-        ],
-        "rating": 2080
+        "matches": [],
+        "rating": 2080,
+        "rd": 100,
+        "vol": 0.06
       }
     ],
     "location": "Tennis, Japan",
@@ -39,10 +39,10 @@
     "ratings": [
       {
         "date": "2018-11-21T00:00:00.000Z",
-        "matches": [
-          {}
-        ],
-        "rating": 2040
+        "matches": [],
+        "rating": 2040,
+        "rd": 100,
+        "vol": 0.06
       }
     ],
     "location": "Basketball, Japan",
@@ -56,10 +56,10 @@
     "ratings": [
       {
         "date": "2018-11-21T00:00:00.000Z",
-        "matches": [
-          {}
-        ],
-        "rating": 1950
+        "matches": [],
+        "rating": 1950,
+        "rd": 100,
+        "vol": 0.06
       }
     ],
     "location": "Persona, Japan",

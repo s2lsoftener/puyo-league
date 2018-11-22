@@ -1,0 +1,510 @@
+[
+  {
+    "name": "unkoさん",
+    "ranking": 1,
+    "ratings": [
+      {
+        "date": "2018-11-21T00:00:00.000Z",
+        "matches": [],
+        "rating": 2100,
+        "rd": 100,
+        "vol": 0.06
+      },
+      {
+        "date": "11/22/2018",
+        "matches": [
+          {
+            "season": "1",
+            "tournament": "18-Nov",
+            "matchid": "1",
+            "player1": "unkoさん",
+            "player2": "Echizen Ryoma",
+            "p1score": "20",
+            "p2score": "10",
+            "date": "11/22/2018",
+            "video": "https://www.youtube.com/watch?v=QeZne1wVyl0",
+            "bracket": "https://www.challonge.com"
+          },
+          {
+            "season": "1",
+            "tournament": "18-Nov",
+            "matchid": "2",
+            "player1": "unkoさん",
+            "player2": "Kuroko",
+            "p1score": "20",
+            "p2score": "14",
+            "date": "11/22/2018",
+            "video": "",
+            "bracket": ""
+          },
+          {
+            "season": "1",
+            "tournament": "18-Nov",
+            "matchid": "3",
+            "player1": "unkoさん",
+            "player2": "Ren",
+            "p1score": "19",
+            "p2score": "20",
+            "date": "11/22/2018",
+            "video": "",
+            "bracket": ""
+          }
+        ],
+        "rating": 2108.9583604178038,
+        "rd": 91.23472543267486,
+        "vol": 0.05999320551627455
+      },
+      {
+        "date": "11/29/2018",
+        "matches": [
+          {
+            "season": "1",
+            "tournament": "29-Nov",
+            "matchid": "1",
+            "player1": "unkoさん",
+            "player2": "Echizen Ryoma",
+            "p1score": "20",
+            "p2score": "10",
+            "date": "11/29/2018",
+            "video": "https://www.youtube.com/watch?v=QeZne1wVyl0",
+            "bracket": "https://www.challonge.com"
+          },
+          {
+            "season": "1",
+            "tournament": "29-Nov",
+            "matchid": "2",
+            "player1": "unkoさん",
+            "player2": "Kuroko",
+            "p1score": "20",
+            "p2score": "14",
+            "date": "11/29/2018",
+            "video": "",
+            "bracket": ""
+          },
+          {
+            "season": "1",
+            "tournament": "29-Nov",
+            "matchid": "3",
+            "player1": "unkoさん",
+            "player2": "Ren",
+            "p1score": "19",
+            "p2score": "20",
+            "date": "11/29/2018",
+            "video": "",
+            "bracket": ""
+          }
+        ],
+        "rating": 2114.6802980210323,
+        "rd": 84.49815414202556,
+        "vol": 0.05998599228214506
+      }
+    ],
+    "location": "New York, Japan",
+    "avatar": "../assets/data/avatars/default.png",
+    "matches": [],
+    "description": "Test player unkoさん (UTF8 test)",
+    "glicko": {
+      "_tau": 0.5,
+      "__rating": 0.6601528342002492,
+      "__rd": 0.48641045501396835,
+      "__vol": 0.05998599228214506,
+      "id": 0,
+      "adv_ranks": [
+        0.27748203317379283,
+        -0.1580431426345015,
+        0.23939283135131534
+      ],
+      "adv_rds": [
+        0.524378170046766,
+        0.5238077243537449,
+        0.5276117173181636
+      ],
+      "outcomes": [
+        1,
+        1,
+        0
+      ]
+    }
+  },
+  {
+    "name": "Echizen Ryoma",
+    "ranking": 2,
+    "ratings": [
+      {
+        "date": "2018-11-21T00:00:00.000Z",
+        "matches": [],
+        "rating": 2080,
+        "rd": 100,
+        "vol": 0.06
+      },
+      {
+        "date": "11/22/2018",
+        "matches": [
+          {
+            "season": "1",
+            "tournament": "18-Nov",
+            "matchid": "1",
+            "player1": "unkoさん",
+            "player2": "Echizen Ryoma",
+            "p1score": "20",
+            "p2score": "10",
+            "date": "11/22/2018",
+            "video": "https://www.youtube.com/watch?v=QeZne1wVyl0",
+            "bracket": "https://www.challonge.com"
+          },
+          {
+            "season": "1",
+            "tournament": "18-Nov",
+            "matchid": "4",
+            "player1": "Echizen Ryoma",
+            "player2": "Kuroko",
+            "p1score": "20",
+            "p2score": "18",
+            "date": "11/22/2018",
+            "video": "",
+            "bracket": ""
+          },
+          {
+            "season": "1",
+            "tournament": "18-Nov",
+            "matchid": "5",
+            "player1": "Echizen Ryoma",
+            "player2": "Ren",
+            "p1score": "10",
+            "p2score": "20",
+            "date": "11/22/2018",
+            "video": "",
+            "bracket": ""
+          }
+        ],
+        "rating": 2048.2035683424783,
+        "rd": 91.0938220685501,
+        "vol": 0.0599968126808214
+      },
+      {
+        "date": "11/29/2018",
+        "matches": [
+          {
+            "season": "1",
+            "tournament": "29-Nov",
+            "matchid": "1",
+            "player1": "unkoさん",
+            "player2": "Echizen Ryoma",
+            "p1score": "20",
+            "p2score": "10",
+            "date": "11/29/2018",
+            "video": "https://www.youtube.com/watch?v=QeZne1wVyl0",
+            "bracket": "https://www.challonge.com"
+          },
+          {
+            "season": "1",
+            "tournament": "29-Nov",
+            "matchid": "4",
+            "player1": "Echizen Ryoma",
+            "player2": "Kuroko",
+            "p1score": "20",
+            "p2score": "18",
+            "date": "11/29/2018",
+            "video": "",
+            "bracket": ""
+          },
+          {
+            "season": "1",
+            "tournament": "29-Nov",
+            "matchid": "5",
+            "player1": "Echizen Ryoma",
+            "player2": "Ren",
+            "p1score": "10",
+            "p2score": "20",
+            "date": "11/29/2018",
+            "video": "",
+            "bracket": ""
+          }
+        ],
+        "rating": 2027.5172997830991,
+        "rd": 84.11346034927443,
+        "vol": 0.05999160495648601
+      }
+    ],
+    "location": "Tennis, Japan",
+    "avatar": "../assets/data/avatars/default.png",
+    "matches": [],
+    "description": "Test player Echizen Ryoma (space name test)",
+    "glicko": {
+      "_tau": 0.5,
+      "__rating": 0.15840230409951767,
+      "__rd": 0.48419597962485383,
+      "__vol": 0.05999160495648601,
+      "id": 1,
+      "adv_ranks": [
+        0.6272147150021681,
+        -0.1580431426345015,
+        0.23939283135131534
+      ],
+      "adv_rds": [
+        0.5251892749774338,
+        0.5238077243537449,
+        0.5276117173181636
+      ],
+      "outcomes": [
+        0,
+        1,
+        0
+      ]
+    }
+  },
+  {
+    "name": "Kuroko",
+    "ranking": 3,
+    "ratings": [
+      {
+        "date": "2018-11-21T00:00:00.000Z",
+        "matches": [],
+        "rating": 2040,
+        "rd": 100,
+        "vol": 0.06
+      },
+      {
+        "date": "11/22/2018",
+        "matches": [
+          {
+            "season": "1",
+            "tournament": "18-Nov",
+            "matchid": "2",
+            "player1": "unkoさん",
+            "player2": "Kuroko",
+            "p1score": "20",
+            "p2score": "14",
+            "date": "11/22/2018",
+            "video": "",
+            "bracket": ""
+          },
+          {
+            "season": "1",
+            "tournament": "18-Nov",
+            "matchid": "4",
+            "player1": "Echizen Ryoma",
+            "player2": "Kuroko",
+            "p1score": "20",
+            "p2score": "18",
+            "date": "11/22/2018",
+            "video": "",
+            "bracket": ""
+          },
+          {
+            "season": "1",
+            "tournament": "18-Nov",
+            "matchid": "6",
+            "player1": "Kuroko",
+            "player2": "Ren",
+            "p1score": "9",
+            "p2score": "20",
+            "date": "11/22/2018",
+            "video": "",
+            "bracket": ""
+          }
+        ],
+        "rating": 1972.5450929564481,
+        "rd": 90.994725497739,
+        "vol": 0.060010855309094314
+      },
+      {
+        "date": "11/29/2018",
+        "matches": [
+          {
+            "season": "1",
+            "tournament": "29-Nov",
+            "matchid": "2",
+            "player1": "unkoさん",
+            "player2": "Kuroko",
+            "p1score": "20",
+            "p2score": "14",
+            "date": "11/29/2018",
+            "video": "",
+            "bracket": ""
+          },
+          {
+            "season": "1",
+            "tournament": "29-Nov",
+            "matchid": "4",
+            "player1": "Echizen Ryoma",
+            "player2": "Kuroko",
+            "p1score": "20",
+            "p2score": "18",
+            "date": "11/29/2018",
+            "video": "",
+            "bracket": ""
+          },
+          {
+            "season": "1",
+            "tournament": "29-Nov",
+            "matchid": "6",
+            "player1": "Kuroko",
+            "player2": "Ren",
+            "p1score": "9",
+            "p2score": "20",
+            "date": "11/29/2018",
+            "video": "",
+            "bracket": ""
+          }
+        ],
+        "rating": 1928.386506123166,
+        "rd": 84.35118367187519,
+        "vol": 0.06001477380937353
+      }
+    ],
+    "location": "Basketball, Japan",
+    "avatar": "../assets/data/avatars/default.png",
+    "matches": [],
+    "description": "Test player Kuroko",
+    "glicko": {
+      "_tau": 0.5,
+      "__rating": -0.41224039146727554,
+      "__rd": 0.48556442501502545,
+      "__vol": 0.06001477380937353,
+      "id": 2,
+      "adv_ranks": [
+        0.6272147150021681,
+        0.27748203317379283,
+        0.23939283135131534
+      ],
+      "adv_rds": [
+        0.5251892749774338,
+        0.524378170046766,
+        0.5276117173181636
+      ],
+      "outcomes": [
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "Ren",
+    "ranking": 4,
+    "ratings": [
+      {
+        "date": "2018-11-21T00:00:00.000Z",
+        "matches": [],
+        "rating": 1950,
+        "rd": 100,
+        "vol": 0.06
+      },
+      {
+        "date": "11/22/2018",
+        "matches": [
+          {
+            "season": "1",
+            "tournament": "18-Nov",
+            "matchid": "3",
+            "player1": "unkoさん",
+            "player2": "Ren",
+            "p1score": "19",
+            "p2score": "20",
+            "date": "11/22/2018",
+            "video": "",
+            "bracket": ""
+          },
+          {
+            "season": "1",
+            "tournament": "18-Nov",
+            "matchid": "5",
+            "player1": "Echizen Ryoma",
+            "player2": "Ren",
+            "p1score": "10",
+            "p2score": "20",
+            "date": "11/22/2018",
+            "video": "",
+            "bracket": ""
+          },
+          {
+            "season": "1",
+            "tournament": "18-Nov",
+            "matchid": "6",
+            "player1": "Kuroko",
+            "player2": "Ren",
+            "p1score": "9",
+            "p2score": "20",
+            "date": "11/22/2018",
+            "video": "",
+            "bracket": ""
+          }
+        ],
+        "rating": 2041.5867959981215,
+        "rd": 91.65554678673328,
+        "vol": 0.06002666222241953
+      },
+      {
+        "date": "11/29/2018",
+        "matches": [
+          {
+            "season": "1",
+            "tournament": "29-Nov",
+            "matchid": "3",
+            "player1": "unkoさん",
+            "player2": "Ren",
+            "p1score": "19",
+            "p2score": "20",
+            "date": "11/29/2018",
+            "video": "",
+            "bracket": ""
+          },
+          {
+            "season": "1",
+            "tournament": "29-Nov",
+            "matchid": "5",
+            "player1": "Echizen Ryoma",
+            "player2": "Ren",
+            "p1score": "10",
+            "p2score": "20",
+            "date": "11/29/2018",
+            "video": "",
+            "bracket": ""
+          },
+          {
+            "season": "1",
+            "tournament": "29-Nov",
+            "matchid": "6",
+            "player1": "Kuroko",
+            "player2": "Ren",
+            "p1score": "9",
+            "p2score": "20",
+            "date": "11/29/2018",
+            "video": "",
+            "bracket": ""
+          }
+        ],
+        "rating": 2101.1432556746913,
+        "rd": 84.54056541528433,
+        "vol": 0.060038975602253984
+      }
+    ],
+    "location": "Persona, Japan",
+    "avatar": "../assets/data/avatars/default.png",
+    "matches": [],
+    "description": "Test player Ren",
+    "glicko": {
+      "_tau": 0.5,
+      "__rating": 0.582227357672565,
+      "__rd": 0.4866545939177466,
+      "__vol": 0.060038975602253984,
+      "id": 3,
+      "adv_ranks": [
+        0.6272147150021681,
+        0.27748203317379283,
+        -0.1580431426345015
+      ],
+      "adv_rds": [
+        0.5251892749774338,
+        0.524378170046766,
+        0.5238077243537449
+      ],
+      "outcomes": [
+        1,
+        1,
+        1
+      ]
+    }
+  }
+]

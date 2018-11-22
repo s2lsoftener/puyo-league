@@ -1,0 +1,13 @@
+﻿season	tournament	matchid	player1	player2	p1score	p2score	date	video	bracket
+1	18-Nov	1	unkoさん	Echizen Ryoma	20	10	11/22/2018	https://www.youtube.com/watch?v=QeZne1wVyl0	https://www.challonge.com
+1	18-Nov	2	unkoさん	Kuroko	20	14	11/22/2018		
+1	18-Nov	3	unkoさん	Ren	19	20	11/22/2018		
+1	18-Nov	4	Echizen Ryoma	Kuroko	20	18	11/22/2018		
+1	18-Nov	5	Echizen Ryoma	Ren	10	20	11/22/2018		
+1	18-Nov	6	Kuroko	Ren	9	20	11/22/2018		
+1	29-Nov	1	unkoさん	Echizen Ryoma	20	10	11/29/2018	https://www.youtube.com/watch?v=QeZne1wVyl0	https://www.challonge.com
+1	29-Nov	2	unkoさん	Kuroko	20	14	11/29/2018		
+1	29-Nov	3	unkoさん	Ren	19	20	11/29/2018		
+1	29-Nov	4	Echizen Ryoma	Kuroko	20	18	11/29/2018		
+1	29-Nov	5	Echizen Ryoma	Ren	10	20	11/29/2018		
+1	29-Nov	6	Kuroko	Ren	9	20	11/29/2018		
