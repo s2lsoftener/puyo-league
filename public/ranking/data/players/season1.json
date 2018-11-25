@@ -127,8 +127,135 @@
     }
   },
   {
-    "name": "Echizen Ryoma",
+    "name": "Ren",
     "ranking": 2,
+    "ratings": [
+      {
+        "date": "2018-11-21T00:00:00.000Z",
+        "matches": [],
+        "rating": 1950,
+        "rd": 100,
+        "vol": 0.06
+      },
+      {
+        "date": "11/22/2018",
+        "matches": [
+          {
+            "season": "1",
+            "tournament": "18-Nov",
+            "matchid": "3",
+            "player1": "unkoさん",
+            "player2": "Ren",
+            "p1score": "19",
+            "p2score": "20",
+            "date": "11/22/2018",
+            "video": "",
+            "bracket": ""
+          },
+          {
+            "season": "1",
+            "tournament": "18-Nov",
+            "matchid": "5",
+            "player1": "Echizen Ryoma",
+            "player2": "Ren",
+            "p1score": "10",
+            "p2score": "20",
+            "date": "11/22/2018",
+            "video": "",
+            "bracket": ""
+          },
+          {
+            "season": "1",
+            "tournament": "18-Nov",
+            "matchid": "6",
+            "player1": "Kuroko",
+            "player2": "Ren",
+            "p1score": "9",
+            "p2score": "20",
+            "date": "11/22/2018",
+            "video": "",
+            "bracket": ""
+          }
+        ],
+        "rating": 2041.5867959981215,
+        "rd": 91.65554678673328,
+        "vol": 0.06002666222241953
+      },
+      {
+        "date": "11/29/2018",
+        "matches": [
+          {
+            "season": "1",
+            "tournament": "29-Nov",
+            "matchid": "3",
+            "player1": "unkoさん",
+            "player2": "Ren",
+            "p1score": "19",
+            "p2score": "20",
+            "date": "11/29/2018",
+            "video": "",
+            "bracket": ""
+          },
+          {
+            "season": "1",
+            "tournament": "29-Nov",
+            "matchid": "5",
+            "player1": "Echizen Ryoma",
+            "player2": "Ren",
+            "p1score": "10",
+            "p2score": "20",
+            "date": "11/29/2018",
+            "video": "",
+            "bracket": ""
+          },
+          {
+            "season": "1",
+            "tournament": "29-Nov",
+            "matchid": "6",
+            "player1": "Kuroko",
+            "player2": "Ren",
+            "p1score": "9",
+            "p2score": "20",
+            "date": "11/29/2018",
+            "video": "",
+            "bracket": ""
+          }
+        ],
+        "rating": 2101.1432556746913,
+        "rd": 84.54056541528433,
+        "vol": 0.060038975602253984
+      }
+    ],
+    "location": "Persona, Japan",
+    "avatar": "../assets/data/avatars/default.png",
+    "matches": [],
+    "description": "Test player Ren",
+    "glicko": {
+      "_tau": 0.5,
+      "__rating": 0.582227357672565,
+      "__rd": 0.4866545939177466,
+      "__vol": 0.060038975602253984,
+      "id": 3,
+      "adv_ranks": [
+        0.6272147150021681,
+        0.27748203317379283,
+        -0.1580431426345015
+      ],
+      "adv_rds": [
+        0.5251892749774338,
+        0.524378170046766,
+        0.5238077243537449
+      ],
+      "outcomes": [
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "name": "Echizen Ryoma",
+    "ranking": 3,
     "ratings": [
       {
         "date": "2018-11-21T00:00:00.000Z",
@@ -255,7 +382,7 @@
   },
   {
     "name": "Kuroko",
-    "ranking": 3,
+    "ranking": 4,
     "ratings": [
       {
         "date": "2018-11-21T00:00:00.000Z",
@@ -381,130 +508,85 @@
     }
   },
   {
-    "name": "Ren",
-    "ranking": 4,
+    "name": "NEWPLAYER",
+    "ranking": 5,
     "ratings": [
       {
         "date": "2018-11-21T00:00:00.000Z",
         "matches": [],
-        "rating": 1950,
+        "rating": 2000,
         "rd": 100,
         "vol": 0.06
       },
       {
         "date": "11/22/2018",
-        "matches": [
-          {
-            "season": "1",
-            "tournament": "18-Nov",
-            "matchid": "3",
-            "player1": "unkoさん",
-            "player2": "Ren",
-            "p1score": "19",
-            "p2score": "20",
-            "date": "11/22/2018",
-            "video": "",
-            "bracket": ""
-          },
-          {
-            "season": "1",
-            "tournament": "18-Nov",
-            "matchid": "5",
-            "player1": "Echizen Ryoma",
-            "player2": "Ren",
-            "p1score": "10",
-            "p2score": "20",
-            "date": "11/22/2018",
-            "video": "",
-            "bracket": ""
-          },
-          {
-            "season": "1",
-            "tournament": "18-Nov",
-            "matchid": "6",
-            "player1": "Kuroko",
-            "player2": "Ren",
-            "p1score": "9",
-            "p2score": "20",
-            "date": "11/22/2018",
-            "video": "",
-            "bracket": ""
-          }
-        ],
-        "rating": 2041.5867959981215,
-        "rd": 91.65554678673328,
-        "vol": 0.06002666222241953
+        "matches": [],
+        "rating": 2000,
+        "rd": 100.54173435212178,
+        "vol": 0.06
       },
       {
         "date": "11/29/2018",
-        "matches": [
-          {
-            "season": "1",
-            "tournament": "29-Nov",
-            "matchid": "3",
-            "player1": "unkoさん",
-            "player2": "Ren",
-            "p1score": "19",
-            "p2score": "20",
-            "date": "11/29/2018",
-            "video": "",
-            "bracket": ""
-          },
-          {
-            "season": "1",
-            "tournament": "29-Nov",
-            "matchid": "5",
-            "player1": "Echizen Ryoma",
-            "player2": "Ren",
-            "p1score": "10",
-            "p2score": "20",
-            "date": "11/29/2018",
-            "video": "",
-            "bracket": ""
-          },
-          {
-            "season": "1",
-            "tournament": "29-Nov",
-            "matchid": "6",
-            "player1": "Kuroko",
-            "player2": "Ren",
-            "p1score": "9",
-            "p2score": "20",
-            "date": "11/29/2018",
-            "video": "",
-            "bracket": ""
-          }
-        ],
-        "rating": 2101.1432556746913,
-        "rd": 84.54056541528433,
-        "vol": 0.060038975602253984
+        "matches": [],
+        "rating": 2000,
+        "rd": 101.08056535786316,
+        "vol": 0.06
       }
     ],
-    "location": "Persona, Japan",
+    "location": "Coward, USA",
     "avatar": "../assets/data/avatars/default.png",
     "matches": [],
-    "description": "Test player Ren",
+    "description": "Test new player",
     "glicko": {
       "_tau": 0.5,
-      "__rating": 0.582227357672565,
-      "__rd": 0.4866545939177466,
-      "__vol": 0.060038975602253984,
-      "id": 3,
-      "adv_ranks": [
-        0.6272147150021681,
-        0.27748203317379283,
-        -0.1580431426345015
-      ],
-      "adv_rds": [
-        0.5251892749774338,
-        0.524378170046766,
-        0.5238077243537449
-      ],
-      "outcomes": [
-        1,
-        1,
-        1
-      ]
+      "__rating": 0,
+      "__rd": 0.5818664832150946,
+      "__vol": 0.06,
+      "id": 4,
+      "adv_ranks": [],
+      "adv_rds": [],
+      "outcomes": []
+    }
+  },
+  {
+    "name": "NEWPLAYER-2",
+    "ranking": 6,
+    "ratings": [
+      {
+        "date": "2018-11-21T00:00:00.000Z",
+        "matches": [],
+        "rating": 2000,
+        "rd": 100,
+        "vol": 0.06
+      },
+      {
+        "date": "11/22/2018",
+        "matches": [],
+        "rating": 2000,
+        "rd": 100.54173435212178,
+        "vol": 0.06
+      },
+      {
+        "date": "11/29/2018",
+        "matches": [],
+        "rating": 2000,
+        "rd": 101.08056535786316,
+        "vol": 0.06
+      }
+    ],
+    "location": "California, USA",
+    "avatar": "../assets/data/avatars/default.png",
+    "matches": [],
+    "description": "Test new player 2",
+    "glicko": {
+      "_tau": 0.5,
+      "__rating": 0,
+      "__rd": 0.5818664832150946,
+      "__vol": 0.06,
+      "id": 5,
+      "adv_ranks": [],
+      "adv_rds": [],
+      "outcomes": []
     }
   }
 ]

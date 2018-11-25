@@ -20,6 +20,7 @@ csv({ delimiter: '\t' })
   })
   .then(setupRankingSystem)
   .then(runGlicko) // Run glicko rankings
+  .then(sortRankings)
   .then(saveSeasonData)
 
 
@@ -53,11 +54,11 @@ function setupRankingSystem(matchData) {
     tournaments[tournament] = matchData.filter(match => match.tournament === tournament)
   })
 
-  return [rankingSystem, tournaments, tournamentNames]
+  return [rankingSystem, tournaments, tournamentNames, matchData]
 }
 
 function runGlicko(system) {
-  let [rankingSystem, tournaments, tournamentNames] = system
+  let [rankingSystem, tournaments, tournamentNames, matchData] = system
   
   tournamentNames.forEach(tournamentName => {
     // Grab tournament date from one of the tournament matches
@@ -93,20 +94,36 @@ function runGlicko(system) {
     })
   })
 
-  return [rankingSystem, tournaments, tournamentNames]
+  return [rankingSystem, tournaments, tournamentNames, matchData]
 }
 
-function displayValues(system) {
-  playerList.forEach(player => {
-    console.log(player.ratings)
-    player.ratings.forEach(date => {
-      console.log(date.matches)
-    })
+function sortRankings(system) {
+  playerList.sort((a, b) => {
+    if (a.ratings.every(period => period.rating === a.ratings[0].rating) && b.ratings.every(period => period.rating === b.ratings[0].rating) === false) {
+      console.log(`${a.name} hasn't played any matches`)
+      return 1
+    }
+    if (a.ratings.every(period => period.rating === a.ratings[0].rating) === false && b.ratings.every(period => period.rating === b.ratings[0].rating)) {
+      console.log(`${b.name} hasn't played any matches`)
+      return -1
+    }
+    if (a.ratings.every(period => period.rating === a.ratings[0].rating) && b.ratings.every(period => period.rating === b.ratings[0].rating)) {
+      console.log(`${a.name} and ${b.name} haven't played any matches.`)
+      return 0
+    }
+    if (a.ratings[a.ratings.length - 1].rating < b.ratings[b.ratings.length - 1].rating) return 1
+    if (a.ratings[a.ratings.length - 1].rating > b.ratings[b.ratings.length - 1].rating) return -1
+    if (a.ratings[a.ratings.length - 1].rating === b.ratings[b.ratings.length - 1].rating) return 0
   })
+  
+  playerList.forEach((player, index) => {
+    player.ranking = index + 1
+  })
+  return system
 }
 
 function saveSeasonData(system) {
-  let [rankingSystem, tournaments, tournamentNames] = system
+  let [rankingSystem, tournaments, tournamentNames, matchData] = system
 
   fs.writeFile(`public/ranking/data/players/season${currentSeason}.json`, JSON.stringify(playerList, null, 2), function (err) {
     if (err) {
@@ -116,11 +133,11 @@ function saveSeasonData(system) {
     console.log(`Saved player data for season ${currentSeason}`)
   })
 
-  fs.writeFile(`public/ranking/data/matchlogs/season${currentSeason}.json`, JSON.stringify(tournaments, null, 2), function (err) {
+  fs.writeFile(`public/ranking/data/matchlogs/season${currentSeason}.json`, JSON.stringify(matchData, null, 2), function (err) {
     if (err) {
       return console.log(err)
     }
-    console.log(`Saved tournament match sets.`)
+    console.log(`Saved match list.`)
   })
 
   fs.writeFile(`public/ranking/data/matchlogs/season${currentSeason}_order.json`, JSON.stringify(tournamentNames, null, 2), function (err) {

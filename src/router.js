@@ -7,6 +7,9 @@ Vue.use(Router)
 export default new Router({
   mode: 'history',
   base: process.env.BASE_URL,
+  scrollBehavior (to, from, savedPosition) {
+    return { x: 0, y: 0 }
+  },
   routes: [
     {
       path: '/',
@@ -22,9 +25,43 @@ export default new Router({
       component: () => import(/* webpackChunkName: "about" */ './views/About.vue')
     },
     {
-      path: '/rankings/:season',
+      path: '/rankings',
       name: 'rankings',
       component: () => import(/* webpackChunkName: "rankings" */ './views/Rankings.vue')
+    },
+    {
+      path: '/rankings/:season',
+      component: () => import(/* webpackChunkName: "rankings" */ './views/Rankings.vue')
+    },
+    {
+      path: '/player/:name',
+      name: 'player',
+      component: () => import(/* webpackChunkName: "rankings" */ './views/Player.vue')
+    },
+    {
+      path: '/news/:article',
+      name: 'article',
+      component: () => import(/* webpackChunkName: "news" */ './views/Article.vue')
+    },
+    {
+      path: '/news/tag/:tag',
+      name: 'tag',
+      component: Home
+    },
+    {
+      path: '/tournaments',
+      name: 'tournaments',
+      component: () => import(/* webpackChunkName: "tournaments" */ './views/Tournaments.vue')
+    },
+    {
+      path: '/tournaments/data',
+      name: 'tournamentDataAll',
+      component: () => import(/* webpackChunkName: "tournaments" */ './views/TournamentTable.vue')
+    },
+    {
+      path: '/tournaments/data/:tournament',
+      name: 'tournamentData',
+      component: () => import(/* webpackChunkName: "tournaments" */ './views/TournamentTable.vue')
     }
   ]
 })

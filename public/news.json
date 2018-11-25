@@ -1,0 +1,42 @@
+[
+  {
+    "name": "About Puyo League",
+    "banner": "/img/banners/about.jpg",
+    "date": "Feb 24, 2024 @ 24:24 am",
+    "description": "<p>Puyo Puyo is competitive puzzle game series that started in 1991. It was originally made by COMPILE and now it's owned and developed by SEGA. Puyo Puyo is famous in Japan because of its long history, cute and zany style, and competitive puzzle gameplay that really works. After many long years, it's now an <a href=\"https://jesu.or.jp/contents/license_system/\">official eSport</a> in Japan.</p><p>Our goal at <strong>Puyo League</strong> is to develop the Puyo Puyo community in the west. If we work hard to improve as Puyo players, maybe we can make Puyo Puyo into a prestigious game overseas too.</p><p>The current, very basic features of Puyo League include:<ul><li>Weekly ratings</li><li>Tournament and match listings</li><li>Puyo news</li></p>",
+    "link": "about",
+    "tags": ["Western Puyo League", "S2", "zanverse"]
+  },
+  {
+    "name": "Test Tournament 1",
+    "banner": "/img/banners/about.jpg",
+    "date": "Jan 1, 2024 @ 24:24 am",
+    "description": "<p>Test Tournament #1</p>",
+    "link": "test_tournament_1",
+    "tags": ["Tsu", "Tournament", "Puyo Bowl"]
+  },
+  {
+    "name": "Test Tournament 2",
+    "banner": "/img/banners/about.jpg",
+    "date": "Jan 1, 2024 @ 24:24 am",
+    "description": "<p>Test Tournament #2</p>",
+    "link": "test_tournament_2",
+    "tags": ["Tsu", "Tournament", "Puyo Bowl"]
+  },
+  {
+    "name": "#PlayPuyoFever",
+    "banner": "https://cdn.discordapp.com/attachments/190526530449833984/515358900753662003/PlayPuyoFever2018Graphic.png",
+    "date": "Jan 1, 2024 @ 24:24 am",
+    "description": "<p>This month's Play Puyo will be played with Fever rules!</p><p>Sign up here: <a href=\"http://puyonexus.challonge.com\">Link</a></p>",
+    "link": "playpuyofever_1",
+    "tags": ["Fever", "Tournament", "PlayPuyo"]
+  },
+  {
+    "name": "Puyo Puyo eSports on sale! $5",
+    "banner": "/img/banners/puyoespo.jpg",
+    "date": "Nov 23, 2018 @ 24:24 am",
+    "description": "<p>Puyo Puyo eSports is available on the Japanese PlayStation Store and Nintendo eShop for 500 yen (~5 USD) until <b>November 30</b>. Afterwards, the game will be sold for 2000 yen (~20 USD).</p><p>If you want to play Puyo Puyo eSports, but your game console isn't from Japan, don't worry. You can play Japanese games on PS4s and Nintendo Switches made in any region. Games downloaded from the Japanese stores can also be shared with accounts from other countries, as long as the accounts are on the same console.</p><p>To access the Japanese PlayStation Store or the Nintendo eShop, you'll need a separate Japanese account on those platforms. You can find guides for doing that on Google somewhere.</p><p>Japanese online stores probably won't accept your foreign credit card. Prepaid gift cards still work though. You can buy prepaid cards from sites like <a href=\"https://japancodesupply.com/products/nintendo-prepaid-card-1000jpy\">JapanCodeSupply</a>.</p>",
+    "link": "puyoespo_sale_nov30",
+    "tags": ["PPe", "Sale"]
+  }
+]

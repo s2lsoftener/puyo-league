@@ -66,5 +66,39 @@
     "avatar": "../assets/data/avatars/default.png",
     "matches": [],
     "description": "Test player Ren"
+  },
+  {
+    "name": "NEWPLAYER",
+    "ranking": 5,
+    "ratings": [
+      {
+        "date": "2018-11-21T00:00:00.000Z",
+        "matches": [],
+        "rating": 2000,
+        "rd": 100,
+        "vol": 0.06
+      }
+    ],
+    "location": "Coward, USA",
+    "avatar": "../assets/data/avatars/default.png",
+    "matches": [],
+    "description": "Test new player"
+  },
+  {
+    "name": "NEWPLAYER-2",
+    "ranking": 6,
+    "ratings": [
+      {
+        "date": "2018-11-21T00:00:00.000Z",
+        "matches": [],
+        "rating": 2000,
+        "rd": 100,
+        "vol": 0.06
+      }
+    ],
+    "location": "California, USA",
+    "avatar": "../assets/data/avatars/default.png",
+    "matches": [],
+    "description": "Test new player 2"
   }
 ]
